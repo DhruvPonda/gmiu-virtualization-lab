@@ -1,0 +1,5 @@
+CONTAINER ID   IMAGE          COMMAND       CREATED              STATUS              PORTS     NAMES
+0ef816602cf0   ubuntu:24.04   "/bin/bash"   About a minute ago   Up About a minute             lab4
+6e6509a1c4ac   ubuntu:24.04   "/bin/bash"   5 minutes ago        Up 5 minutes                  lab3
+1d9981f67f2e   ubuntu:24.04   "/bin/bash"   12 minutes ago       Up 12 minutes                 lab2
+2a0b06ab3f50   ubuntu:24.04   "/bin/bash"   12 minutes ago       Up 12 minutes                 lab1
